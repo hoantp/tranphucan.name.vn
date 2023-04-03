@@ -11,10 +11,10 @@ const about = {
   description:
     'Em bé Xoài là em của mẹ, em của mẹ thì rất cute...',
   resume: 'https://tranphucan.name.vn',
-  social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
-  },
+  // social: {
+  //   linkedin: 'https://linkedin.com',
+  //   github: 'https://github.com',
+  // },
 }
 
 const projects = [
@@ -24,25 +24,25 @@ const projects = [
     name: 'Steame Garten',
     description:
       'Đi học mầm non',
-    stack: ['STEM'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    stack: ['STEAM', "English"],
+    // sourceCode: 'https://github.com',
+    livePreview: 'https://steame.vn',
   },
   {
-    name: 'Project 2',
+    name: 'Tiểu học',
     description:
       'TBD',
     stack: ['TBD'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'THCS',
     description:
       'TBD',
     stack: ['TBD'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+    // sourceCode: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
 ]
 
@@ -54,6 +54,7 @@ const skills = [
   'Hay hát',
   'Nhớ dai',
   'Nghịch ngợm',
+  'Thánh đánh trống lảng',
 ]
 
 const contact = {

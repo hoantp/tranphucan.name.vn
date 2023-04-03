@@ -26,7 +26,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className='link link--nav'
             >
-              Projects
+              Lộ trình
             </a>
           </li>
         ) : null}
@@ -38,7 +38,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className='link link--nav'
             >
-              Skills
+              Kỹ năng
             </a>
           </li>
         ) : null}
@@ -50,7 +50,7 @@ const Navbar = () => {
               onClick={toggleNavList}
               className='link link--nav'
             >
-              Contact
+              Liên hệ
             </a>
           </li>
         ) : null}
