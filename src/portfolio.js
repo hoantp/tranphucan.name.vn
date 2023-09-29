@@ -21,10 +21,10 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Steame Garten',
+    name: 'STEAMe GARTEN',
     description:
       'Đi học mầm non',
-    stack: ['STEAM', "English"],
+    stack: ['STEAM', 'English'],
     // sourceCode: 'https://github.com',
     livePreview: 'https://steame.vn',
   },
